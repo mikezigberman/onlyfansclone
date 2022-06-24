@@ -1,6 +1,6 @@
 # OnlyFans clone in Django
 
-Basic OnlyFans clone website built in Django web framework using Python. 
+Basic OnlyFans clone. 
 
 ## Getting Started
 
