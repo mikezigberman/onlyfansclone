@@ -5,6 +5,7 @@ Basic OnlyFans clone.
 ## Getting Started
 
 -Install the prerequisites
+
 -Run the server
 
 ### Prerequisites
